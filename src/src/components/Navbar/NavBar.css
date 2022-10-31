@@ -1,0 +1,32 @@
+.Logo{
+    padding-left: 15px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+    width: 100%;
+}
+
+h2{
+    color: #917255;
+    font-size: 50px;
+}
+
+img{
+    height: 50px;
+}
+
+.navBar ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 100%;
+}
+
+.navBar ul li a{
+    background-color: #917255;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
